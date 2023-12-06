@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently working on [DocuChat](https://github.com/xTellarin/docuchat/tree/main)
 
-- 🌱 I’m currently learning **PyTorch and Data Science.**
+- 🌱 I’m currently learning **Data Science and LLM tech.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xTellarin?tab=repositories](https://github.com/xTellarin?tab=repositories)
 
