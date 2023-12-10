@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A curious Data Science student from France</h3>
 
-- 🚀 I’m currently working on [DocuChat](https://github.com/xTellarin/docuchat/tree/main)
+- 🚀 I’m currently working on [DocuChat](https://github.com/xTellarin/docuchat/tree/main), an AI-powered knowledge manager.
 
 - 🌱 I’m currently learning **Data Science and LLM tech.**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NLP, AI and Business.**
 
-- 📫 How to reach me **Tellarin#0069** or by [email](mailto:alexis.cappe@edu.escp.eu).
+- 📫 Reach me on Discord at **tellarin** or by [email](mailto:tellarin.dev@gmail.com).
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/alexis-cappe/](https://www.linkedin.com/in/alexis-cappe/)
 
